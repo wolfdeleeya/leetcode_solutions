@@ -3,4 +3,5 @@ project(leetcode_solutions)
 
 set(CMAKE_CXX_STANDARD 11)
 
+add_executable(789_challenge "#789_challenge/solution.cpp")
 add_executable(829_challenge "#829_challenge/solution.cpp")
